@@ -2,6 +2,12 @@
 	<img width="100%" src="./assets/images/ecosystem.png" alt="TON Ecosystem" />
 </a>
 
+
+> [!WARNING]
+> This repository is archived and is more likely to be out of date.
+> 
+> Register your project on the [TON Builders Portal](https://builders.ton.org/) to unlock support programs, resources, and partner offers — everything you need to build and grow on TON.
+
 ## A collection of live projects within the TON Ecosystem
 
 - [Project Categories](#project-categories)
@@ -81,8 +87,7 @@
 | TON Bridge     | [Telegram](https://t.me/toncoin)          | [GitHub](https://github.com/ton-blockchain/bridge-func) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://bridge.ton.org/)       |
 | Orbit Bridge   | [Telegram](https://t.me/Orbit_Chain)      | [GitHub](https://github.com/orbit-chain)                | [Twitter](https://twitter.com/Orbit_Chain)    | [Website](https://bridge.orbitchain.io/) |
 | XP.Network     | [Telegram](https://t.me/xp_network)       | [GitHub](https://github.com/XP-NETWORK)                 | [Twitter](https://twitter.com/xpnetwork_)     | [Website](https://bridge.xp.network/)    |
-| TonTake Bridge | [Telegram](https://t.me/tontakebridgebot) |                                                         |                                               |                                          |
-| Wallet Bridge  | [Telegram](https://t.me/walletbridgebot)  |                                                         |                                               |                                          |
+| TonTake Bridge | [Telegram](https://t.me/tontakebridgebot) |                                                         |                                               |
 | Layerswap      |                                           | [GitHub](https://github.com/layerswap/layerswapapp)     | [Twitter](https://twitter.com/layerswap)      | [Website](https://www.layerswap.io/)     |
 
 ## DeFi
@@ -124,7 +129,7 @@
 | ----------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------------- | --------------------------------------- |
 | TON Whales        | [Telegram](https://t.me/WhalesSupportBot)   | [GitHub](https://github.com/tonwhales)   | [Twitter](https://twitter.com/whalescorp)   | [Website](https://tonwhales.com/)       |
 | TON Validators    | [Telegram](https://t.me/ton_validators_bot) |                                          |                                             | [Website](https://tonvalidators.org/)   |
-| TON Stake         | [Telegram](https://t.me/tonstake_en)        |                                          | [Twitter](https://twitter.com/tonstakecom)  | [Website](https://www.tonstake.com/#/)  |
+| KTON             | [Telegram](https://t.me/ktonio_bot)         | [GitHub](https://github.com/ton-blockchain/liquid-staking-contract/tree/v2) | [Twitter](https://x.com/kton_io)  | [Website](https://kton.io/)  |
 | TON Raffles       | [Telegram](https://t.me/tonraffles)         |                                          | [Twitter](https://x.com/TonRaffles)         | [Website](https://tonraffles.app)       |
 | Hipo Finance      | [Telegram](https://t.me/hipo_chat)          | [GitHub](https://github.com/HipoFinance) | [Twitter](https://twitter.com/hipofinance)  | [Website](https://app.hipo.finance/)    |
 | TON Stake Lottery | [Telegram](https://t.me/tonstakelottery)    |                                          |                                             | [Website](https://tonstakelottery.com/) |
@@ -152,6 +157,7 @@
 | Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)    |
 | TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot)  |
 | PizzaTon          | [Telegram](https://t.me/pitzaton)               |        | [Twitter](https://x.com/pitzaton)            | [Website](https://launch.pizzaton.me)   |
+| Tonraffles        | [Telegram](https://t.me/tonraffles)             |        | [Twitter](https://x.com/TonRaffles)          | [Website](https://tonraffles.app)       |
 
 ## Centralized Exchanges
 
@@ -187,6 +193,7 @@
 
 | Name               | Telegram                                          | GitHub                                            | Twitter                                       | Website                                                         |
 | ------------------ | ------------------------------------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
+| apiTON             | [Telegram](https://t.me/apitonBot) 		 | [GitHub](https://github.com/apiton-org)	     |						     | [Website](https://apiton.org)                                   |
 | DYOR               | [Telegram](https://t.me/addlist/ykImgvSTJkY1YTli) |                                                   | [Twitter](https://twitter.com/dyorninja)      | [Website](https://dyor.io)                                      |
 | Tonscan by Bastion |                                                   |                                                   |                                               | [Website](https://tonscan.com/)                                 |
 | Tonscan            |                                                   | [GitHub](https://github.com/catchain/tonscan)     |                                               | [Website](https://tonscan.org/)                                 |
@@ -233,7 +240,8 @@
 | TomTalk                 | [Telegram](https://t.me/TOMTALK_BOT)            | [GitHub](https://github.com/tomtalkofficial)                        | [Twitter](https://x.com/Tomtalkofficial)    | [Website](https://tomtalk.io/)
 | Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
 | Dungeon of KITSU        | [Telegram](https://t.me/DungeonsOfKitsune_bot/game) |                                                          | [Twitter](https://x.com/kitsuneton)           |                                                |
-
+| TonPrison        | [Telegram](https://t.me/TonPrisonNews) |                                                          | [Twitter](https://x.com/TonPrison)           |[Website](https://t.me/tonprison_bot/tonprison)                      |
+| Landrocker Miner        | [Telegram](https://t.me/landrocker_miner_bot)   | [GitHub](https://github.com/infinite8fze)                    | [Twitter](https://x.com/landrocker_io)        | [Website](https://landrocker.io/)              |
 ## Infra
 
 ### Web3 Internet
@@ -255,7 +263,9 @@
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
 | CRYPTON    | [Telegram](https://t.me/cryptonportal)     |                                                             | [Twitter](https://twitter.com/thetonhub)      | [Website](https://crypton.tools)   |
 | TON MULTISENDER | [Telegram](https://t.me/MultiSender)  |                                                             | [Twitter](https://twitter.com/multi_sender)   | [Website](https://ton.multisender.app) |
+| TON Bulksender | [Telegram](https://t.me/bulksender)  |                                                             | [Twitter](https://twitter.com/TokenBulksender)   | [Website](https://ton.bulksender.app) |
 | sTONks     | [Telegram](https://t.me/stonksonton)	      |                                                             | [Twitter](https://x.com/tonstonks)            | [Website](https://stonksbots.com)  |
+| Tonraffles | [Telegram](https://t.me/tonraffles)        |                                                             | [Twitter](https://x.com/TonRaffles)           | [Website](https://tonraffles.app)  |
 
 ### Portfolio tracker
 
@@ -287,26 +297,44 @@
 
 ### Integrated Development Environment (IDE)
 
-| Name                       | Telegram                          | GitHub                                                         | Twitter                                 | Website                                                                                |
-| -------------------------- | --------------------------------- | -------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------- |
-| TON IntelliJ Plugin        |                                   | [GitHub](https://github.com/ton-blockchain/intellij-ton)       |                                         | [Website](https://plugins.jetbrains.com/plugin/18541-ton)                              |
-| TON VS Code Plugin         |                                   | [GitHub](https://github.com/ton-foundation/vscode-func)        |                                         | [Website](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)   |
-| Tact VS Code Plugin        |                                   | [GitHub](https://github.com/tact-lang/tact-vscode)             |                                         | [Website](https://marketplace.visualstudio.com/items?itemName=KonVik.tact-lang-vscode) |
-| Neovim Plugin              |                                   | [GitHub](https://github.com/cryshado/neovim-ton-dev)           |                                         |
-| Sublime Text Editor Plugin |                                   | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |                                         |
-| Nujan IDE                  | [Telegram](https://t.me/Nujan_io) | [GitHub](https://github.com/nujan-io/nujan-ide)                | [Twitter](https://twitter.com/nujan_io) | [Website](https://nujan.io/)                                                           |
+#### Tact
+
+| Name                               | Telegram | GitHub                                                        | Twitter | Website                                                                              |
+| ---------------------------------- | -------- | ------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------ |
+| VS Code Extension                  |          | [GitHub](https://github.com/tact-lang/tact-language-server)   |         | [Website](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact) |
+| Extension for VSCode-based Editors |          | [GitHub](https://github.com/tact-lang/tact-language-server)   |         | [Website](https://open-vsx.org/extension/tonstudio/vscode-tact)                      |
+| Language Server (LSP Server)       |          | [GitHub](https://github.com/tact-lang/tact-language-server)   |         |                                                                                      |
+| Vim 8+ and Neovim Plugin           |          | [GitHub](https://github.com/tact-lang/tact.vim)               |         |                                                                                      |
+| Sublime Text 4 Package             |          | [GitHub](https://github.com/tact-lang/tact-sublime)           |         | [Website](https://packagecontrol.io/packages/Tact)                                   |
+| TON Web IDE                        |          | [GitHub](https://github.com/tact-lang/web-ide)                |         | [Website](https://ide.ton.org/)                                                      |
+
+#### FunC
+
+| Name                       | Telegram                             | GitHub                                                         | Twitter | Website                                                                                |
+| -------------------------- | ------------------------------------ | -------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------- |
+| TON IntelliJ Plugin        |                                      | [GitHub](https://github.com/ton-blockchain/intellij-ton)       |         | [Website](https://plugins.jetbrains.com/plugin/18541-ton)                              |
+| TON VS Code Plugin         |                                      | [GitHub](https://github.com/ton-foundation/vscode-func)        |         | [Website](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode)   |
+| Neovim Plugin              |                                      | [GitHub](https://github.com/cryshado/neovim-ton-dev)           |         |                                                                                        |
+| Sublime Text Editor Plugin |                                      | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |         |                                                                                        |
+| TON Web IDE                | [Telegram](https://t.me/ton_web_ide) | [GitHub](https://github.com/tact-lang/web-ide)                 |         | [Website](https://ide.ton.org/)                                                        |
 
 ### Dev Tools
 
-| Name                 | Telegram                             | GitHub                                                        | Twitter                                  | Website                                                                                        |
-| -------------------- | ------------------------------------ | ------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| IntelliJ Idea plugin |                                      | [GitHub](https://github.com/ton-blockchain/intellij-ton)      |                                          | [Website](https://plugins.jetbrains.com/plugin/18541-ton)                                      |
-| Tonana               | [Telegram](https://t.me/tonanadao)   | [GitHub](https://github.com/tonanadao)                        | [Twitter](https://twitter.com/Tonanadao) | [Website](https://tonana.org)                                                                  |
-| WebDeployer          |                                      | [GitHub](https://github.com/ProgramCrafter/ton-qr-deployer)   |                                          | [Website](https://ratingers.pythonanywhere.com/deployer/)                                      |
-| TON Verifier         | [Telegram](https://t.me/tonverifier) | [GitHub](https://github.com/ton-blockchain/verifier)          |                                          | [Website](https://verifier.ton.org)                                                            |
-| TON Timer            |                                      | [GitHub](https://github.com/ProgramCrafter/ton-stable-timer/) |                                          | [Website](https://programcrafter.github.io/ton-stable-timer)                                   |
-| Rift                 |                                      |                                                               |                                          | [Website](https://rift.skyring.io)                                                             |
-| TON NoCode SDK       |                                      |                                                               |                                          | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
+| Name                        | Telegram                             | GitHub                                                                                     | Twitter                                  | Website                                                                                        |
+| --------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Misti Static Analyzer       | [Telegram](https://t.me/tonsec_chat) | [GitHub](https://github.com/nowarp/misti)                                                  |                                          | [Website](https://nowarp.io/tools/misti)                                                       |
+| TON Symbolic Analyzer (TSA) |                                      | [GitHub](https://github.com/espritoxyz/tsa)                                                |                                          | [Website](https://tonan.tech/)                                                                 |
+| Tree-sitter-tact            |                                      | [GitHub](https://github.com/tact-lang/tree-sitter-tact)                                    |                                          |                                                                                                |
+| Tact TextMate grammar       |                                      | [GitHub](https://github.com/tact-lang/tact-sublime/blob/main/package/Tact.tmLanguage.json) |                                          |                                                                                                |
+| Prism.js grammars for TON   |                                      | [GitHub](https://github.com/tact-lang/prism-ton)                                           |                                          |                                                                                                |
+| Tact Template               |                                      | [GitHub](https://github.com/tact-lang/tact-template)                                       |                                          |                                                                                                |
+| TON IntelliJ Plugin         |                                      | [GitHub](https://github.com/ton-blockchain/intellij-ton)                                   |                                          | [Website](https://plugins.jetbrains.com/plugin/18541-ton)                                      |
+| Tonana                      | [Telegram](https://t.me/tonanadao)   | [GitHub](https://github.com/tonanadao)                                                     | [Twitter](https://twitter.com/Tonanadao) | [Website](https://tonana.org)                                                                  |
+| WebDeployer                 |                                      | [GitHub](https://github.com/ProgramCrafter/ton-qr-deployer)                                |                                          | [Website](https://ratingers.pythonanywhere.com/deployer/)                                      |
+| TON Verifier                | [Telegram](https://t.me/tonverifier) | [GitHub](https://github.com/ton-blockchain/verifier)                                       |                                          | [Website](https://verifier.ton.org)                                                            |
+| TON Timer                   |                                      | [GitHub](https://github.com/ProgramCrafter/ton-stable-timer/)                              |                                          | [Website](https://programcrafter.github.io/ton-stable-timer)                                   |
+| Rift                        |                                      |                                                                                            |                                          | [Website](https://rift.skyring.io)                                                             |
+| TON NoCode SDK              |                                      |                                                                                            |                                          | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
 
 ### Nodes
 
@@ -350,19 +378,22 @@
 
 ## Education
 
-| Name                      | Telegram                           | GitHub                                                                | Twitter                                     | Website                                                                               |
-| ------------------------- | ---------------------------------- | --------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------- |
-| FunC Contracts Collection |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/examples#func-smart-contracts) |
-| Getgems NFT Contracts     | [Telegram](https://t.me/getgems)   | [GitHub](https://github.com/getgems-io/nft-contracts)                 | [Twitter](https://twitter.com/getgemsdotio) | [Website](http://getgems.io/)                                                         |
-| Tact Language             | [Telegram](https://t.me/tactlang)  | [GitHub](https://github.com/tact-lang)                                | [Twitter](http://twitter.com/tact_language) | [Website](https://tact-lang.org/)                                                     |
-| Tact by Example           |                                    |                                                                       |                                             | [Website](https://tact-by-example.org)                                                |
-| Tact Template             |                                    | [GitHub](https://github.com/tact-lang/tact-template)                  |                                             |                                                                                       |
-| FunC Lessons              | [Telegram](https://t.me/ton_learn) | [GitHub](https://github.com/romanovichim/TonFunClessons_Eng)          |                                             |                                                                                       |
-| Tonight.dev               |                                    |                                                                       |                                             | [Website](https://tonight.dev/)                                                       |
-| FunC Contracts Collection |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/examples#func-smart-contracts) |
-| FunC SDK and Libraries    |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/libraries)                     |
-| TON Virtual Machine       |                                    | [GitHub](https://github.com/ton-blockchain/ton/tree/master/crypto/vm) |                                             | [Website](https://docs.ton.org/learn/tvm-instructions/tvm-overview)                   |
-| Lucky TON                 | [Telegram](https://t.me/lkyton)    |                                                                       | [Twitter](https://x.com/lkyton)             | [Website](https://academy.luckyton.org)                                               |
+| Name                          | Telegram                           | GitHub                                                                | Twitter                                     | Website                                                                               |
+| ----------------------------- | ---------------------------------- | --------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Tact Language                 | [Telegram](https://t.me/tactlang)  | [GitHub](https://github.com/tact-lang)                                | [Twitter](http://twitter.com/tact_language) | [Website](https://tact-lang.org/)                                                     |
+| Tact DeFi Cookbook            |                                    | [GitHub](https://github.com/tact-lang/defi-cookbook)                  |                                             |                                                                                       |
+| Jetton implementation in Tact |                                    | [GitHub](https://github.com/tact-lang/jetton)                         |                                             |                                                                                       |
+| Tact Template                 |                                    | [GitHub](https://github.com/tact-lang/tact-template)                  |                                             |                                                                                       |
+| Learn Tact in Y minutes       |                                    |                                                                       |                                             | [Website](https://docs.tact-lang.org/book/learn-tact-in-y-minutes)                    |
+| Tact by Example               |                                    | [GitHub](https://github.com/tact-lang/tact-by-example)                |                                             | [Website](https://tact-by-example.org)                                                |
+| TON Virtual Machine           |                                    | [GitHub](https://github.com/ton-blockchain/ton/tree/master/crypto/vm) |                                             | [Website](https://docs.ton.org/learn/tvm-instructions/tvm-overview)                   |
+| FunC Contracts Collection     |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/examples#func-smart-contracts) |
+| Getgems NFT Contracts         | [Telegram](https://t.me/getgems)   | [GitHub](https://github.com/getgems-io/nft-contracts)                 | [Twitter](https://twitter.com/getgemsdotio) | [Website](http://getgems.io/)                                                         |
+| FunC Lessons                  | [Telegram](https://t.me/ton_learn) | [GitHub](https://github.com/romanovichim/TonFunClessons_Eng)          |                                             |                                                                                       |
+| Tonight.dev                   |                                    |                                                                       |                                             | [Website](https://tonight.dev/)                                                       |
+| FunC Contracts Collection     |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/examples#func-smart-contracts) |
+| FunC SDK and Libraries        |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/libraries)                     |
+| Lucky TON                     | [Telegram](https://t.me/lkyton)    |                                                                       | [Twitter](https://x.com/lkyton)             | [Website](https://academy.luckyton.org)                                               |
 
 ## YouTube Tutorials
 
@@ -399,6 +430,7 @@
 | xRare (Tonex) | [Telegram](https://t.me/tonexappbot)    |                                         | [Twitter](https://twitter.com/xrarenft)            | [Website](https://tonex.app/nft)     |
 | Bounty Bay    | [Telegram](https://t.me/bountybay_bot)  |                                         | [Twitter](https://x.com/0xBountyBay)               | [Website](https://www.bountybay.app) |
 
+
 # NFT
 
 ## NFT Services
@@ -410,6 +442,7 @@
 | Playmuse          | [Telegram](https://t.me/playmuseton)       |        | [Twitter](https://twitter.com/playmuseton) | [Website](https://playmuse.org)      |
 | NFT TONificaror   | [Telegram](https://t.me/nfttonificatorbot) |        |                                            |                                      |
 | NFT Drop Calendar | [Telegram](https://t.me/tonnftdropbot)     |        |                                            |                                      |
+| Landrocker Miner  | [Telegram](https://t.me/landrocker_miner_bot) | [Twitter](https://x.com/landrocker_io)           | [Website](https://landrocker.io/)              |
 
 ## NFT Tooling
 
@@ -439,6 +472,7 @@
 | BitOK       | [Telegram](https://t.me/BitOK_support)  | [GitHub](https://github.com/telegram-bots/BitOk) | [Twitter](https://twitter.com/Bitok_org)   | [Website](https://bitok.org/)           |
 | Elliptic    |                                         |                                                  | [Twitter](http://www.twitter.com/elliptic) | [Website](https://www.elliptic.co/)     |
 | Chainalysis | [Telegram](https://t.me/chainalysisinc) | [GitHub](https://github.com/chainalysis)         | [Twitter](https://twitter.com/chainalysis) | [Website](https://www.chainalysis.com/) |
+| Scorechain  | [Telegram](https://t.me/scorechainbot)  |                                                  | [Twitter](https://x.com/scorechain)        | [Website](https://www.scorechain.com/) |
 | Sumsub      |                                         | [GitHub](https://github.com/SumSubstance)        | [Twitter](https://twitter.com/Sumsubcom)   | [Website](https://sumsub.com/)          |
 | TON Guard   | [Telegram](https://t.me/tonguard_bot)   |                                                  |                                            | [Website](https://tonguard.org/)        |
 
@@ -463,6 +497,7 @@
 
 | Name                 | Telegram                                  | GitHub                                              | Twitter                                     | Website                                                 |
 | -------------------- | ----------------------------------------- | --------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+| apiTON               | [Telegram](https://t.me/apiton) 	   | [GitHub](https://github.com/apiton-org)	         |					       | [Website](https://docs.apiton.org)                      |
 | TON Access           | [Telegram](https://t.me/OrbsNetwork)      | [GitHub](https://github.com/orbs-network/)          | [Twitter](https://twitter.com/orbs_network) | [Website](https://www.orbs.com/ton-access/)             |
 | Toncenter            | [Telegram](https://t.me/tonapibot)        | [GitHub](https://github.com/toncenter/ton-http-api) |                                             | [Website](https://toncenter.com/)                       |
 | TON Hub API          | [Telegram](https://t.me/WhalesSupportBot) | [GitHub](https://github.com/tonwhales)              | [Twitter](https://twitter.com/whalescorp)   | [Website](https://sandbox.tonhubapi.com/)               |
@@ -472,7 +507,7 @@
 | NOWNodes             | [Telegram](https://t.me/nownodes)         | [GitHub](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
 | TON SDKs             |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/sdk)  |
 | TON ADNL API         |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/adnl) |
-| TonFura API          | [Telegram](https://t.me/tonfura_ann)      | [GitHub](https://github.com/tonfuraplatform)        | [Twitter](https://twitter.com/ton_fura)     | [Website](https://tonfura.com/)                         |
+| TONX API          | [Telegram](https://t.me/tonxapi)      | [GitHub](https://github.com/tonxapi/sample/)        | [Twitter](https://x.com/TONXAPI)     | [Website](https://tonxapi.com/)                         |
 
 ## Payments
 
@@ -613,7 +648,7 @@
 | DogWifHood | [Telegram](https://t.me/dogwifhood_TON) | [`EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ`](https://tonviewer.com/EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ) | [Twitter](https://twitter.com/dogwifhoodTON) | [Website](https://wifhood.dog) |
 | Tonk | [Telegram](https://t.me/tonkinu_official) | [`EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC`](https://tonviewer.com/EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC) | [Twitter](https://twitter.com/tonkinubot) | [Website](https://www.tonk.bot) |
 | PaperPlane | [Telegram](https://t.me/paperplane_ton) | [`EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2`](https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
-| Peng | [Telegram](https://t.me/pengonton) | [`EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h`](https://tonviewer.com/EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h) | [Twitter](https://twitter.com/pengtoncoin) | [Website](https://pengonton.com) |
+| Peng | [Telegram](https://t.me/pengtoncoin) | [`EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h`](https://tonviewer.com/EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h) | [Twitter](https://twitter.com/pengtoncoin) | [Website](https://pengonton.com) |
 | ANON | [Telegram](https://t.me/anon_club) | [`EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ`](https://tonviewer.com/EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ) | [Twitter](https://twitter.com/anonclub8) | [Website](https://anon.tg/) |
 | Morfey | [Telegram](https://t.me/morfeyofficial) | [`EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv`](https://tonviewer.com/EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv) | [Twitter](https://twitter.com/morfeytoken) | [Website](https://morfeytoken.io/) |
 | INSECTS | [Telegram](https://t.me/Insects_FUTURES) | [`EQBecg3E6822M1aZOZhqzMWaSRGP712sDRkQgHO4MSgDRDHq`] (https://tonviewer.com/EQBecg3E6822M1aZOZhqzMWaSRGP712sDRkQgHO4MSgDRDHq) | [Twitter](https://x.com/insectsvip?s=21) | [Website](https://insects.vip)
